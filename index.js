@@ -52,7 +52,6 @@ while (condition) {
         default: "false",
     });
     condition = con.continue;
-    console.log(condition);
 }
 ;
 console.log(chalk.green("*******************************************")); //ckalk animation

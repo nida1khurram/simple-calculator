@@ -53,7 +53,6 @@ let con=await inquirer.prompt({
 },);
 
 condition=con.continue
-console.log(condition);
 };
 
 console.log(chalk.green("*******************************************"));//ckalk animation
